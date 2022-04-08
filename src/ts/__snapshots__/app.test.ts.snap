@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`populateTable should display the characters & their homeworlds 1`] = `
+Array [
+  <body>
+    <tbody>
+      <tr>
+        <td>
+          Leia
+        </td>
+        <td>
+          Tatooine
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Luke
+        </td>
+        <td>
+          Alderaan
+        </td>
+      </tr>
+    </tbody>
+  </body>,
+]
+`;
